@@ -7,14 +7,14 @@ This project will allow the officers and current members to be able to contribut
 
 ## Setup
 
-1. Clone this project through HTTPS or SSH:
+1. Fork and Clone this project through HTTPS or SSH:
 
 ```
 # Using HTTPS
-git clone https://github.com/acmatnau/ACM-Discord-Bot.git
+git clone https://github.com/{your-github-user}/ACM-Discord-Bot.git
 
 # Using SSH
-git clone git@github.com:acmatnau/ACM-Discord-Bot.git
+git clone git@github.com:{your-github-user}/ACM-Discord-Bot.git
 ```
 
 2. Setup your workstation for local development by creating a virtual environment and installing project dependencies:
